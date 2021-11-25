@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="">
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
 </div>
-
 <hr />
+<div >
 
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning NodeJS and ReactJS
@@ -28,4 +28,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</div>
 <hr />
