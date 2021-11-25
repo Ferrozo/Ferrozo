@@ -1,9 +1,8 @@
- <img src="" />
- 
- <h1>Hello!</h1>
- <h2> I'm <strong> Wilson Cotripa</strong></h2>
+<div align="center">
+ <h2>Hello!, I'm <strong> Wilson Cotripa</strong></h2>
  <p> ABOUT MYSELF: I'm <strong> 3D ARTIST </strong> and <strong> WEB DEVELOPER</strong>
- <hr />
+  <br />
+</div/>
 
 <div align="center" display="flex">
 <h2>My skills</h2>
