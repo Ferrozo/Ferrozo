@@ -1,6 +1,6 @@
 <div align="center">
  <h2>Hello!, I'm <strong>Ferrozo AKA (Wilson Cotripa)</strong></h2>
- <p> ABOUT MYSELF: I'm <strong> 3D ARTIST </strong> and <strong> WEB DEVELOPER</strong>
+ <p> ABOUT MYSELF: I'm <strong> WEB </strong>, <strong> MOBILE DEVELOPER</strong> and <strong> 3D ARTIST </strong> 
   <br />
 </div/>
 
