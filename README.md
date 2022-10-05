@@ -3,9 +3,14 @@
  <p><strong> WEB </strong> and <strong> MOBILE DEVELOPER</strong> </p>
   <br />
 </div/>
-
+ 
+ <div>
+  <a href="https://github.com/Ferrozo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrozo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br/>
 <div display="flex">
-<h2>SKILLS</h2>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="">
    <br/>
