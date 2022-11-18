@@ -1,6 +1,6 @@
 <div>
  <h2><strong>Wilson Ferrozo</strong></h2>
- <p><strong> WEB </strong> and <strong> MOBILE DEVELOPER</strong> </p>
+ <p><strong> </strong>MOBILE DEVELOPER</strong> </p>
   <br />
 </div/>
  
