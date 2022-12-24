@@ -1,22 +1,22 @@
 <div>
  <h2><strong>Wilson Ferrozo</strong></h2>
- <p><strong> </strong>MOBILE DEVELOPER</strong> </p>
+ <p>Hi, I'm Ferrozo <strong> </strong>Tech Lover</strong> </p>
   <br />
 </div/>
- 
- <div>
-  <a href="https://github.com/Ferrozo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrozo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrozo&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-<br/>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferrozo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrozo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrozo&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrozo&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ferrozo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 <div display="flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="">
    <br/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
-<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""> -->
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/>
-<img src="https://camo.githubusercontent.com/029c025c6da46b2fa8f15a3fa00261b9045d7b2a87a9692d437ee27b511c6f63/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466972656261736526636f6c6f723d323232323232266c6f676f3d4669726562617365266c6f676f436f6c6f723d464643413238266c6162656c3d" alt="">
+<img 
 </div>
 <hr />
