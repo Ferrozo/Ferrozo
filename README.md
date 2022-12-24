@@ -1,6 +1,6 @@
 <div>
  <h2><strong>Wilson Ferrozo</strong></h2>
- <p>Hi, I'm Ferrozo <strong> </strong>Tech Lover</strong> </p>
+ <p>Hi there, I'm <strong> Ferrozo A DEVELOPER</strong></strong> </p>
   <br />
 </div/>
 
