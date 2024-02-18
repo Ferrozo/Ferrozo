@@ -1,22 +1,39 @@
-<div>
- <h2><strong>Wilson Ferrozo</strong></h2>
- <p>Hi there, I'm <strong> Ferrozo WELCOME TO MY GITHUB :)</strong></strong> </p>
-  <br />
-</div/>
+<meta name="description" content="GitHub profile in blue color">
+<meta name="keywords" content="Mobile and Game developer, GitHub Stats, GitHub Profile, FLUTTER, KOTLIN, REACT, DART, NODEJS"/>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferrozo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrozo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrozo&theme=nord_dark) |
-| :-: | :-: | :-: |
+<div style="display: inline_block" align="center">
+   <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
+   </a>
+    
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ferrozo;I'm+from+Angola;I'm+a+Mobile+and+Game+Developer;Be+Welcome!+ツ)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrozo&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ferrozo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+   <br>
 
-<div display="flex">
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt=""> 
-   <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin" alt="">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-   <br/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
-<img 
+   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ferrozo&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
+   <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrozo&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+    
+   <br>
+   <br>
+   <br>
+   
+   <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt=""> 
+   <img align="center" src="https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin" alt="">
+   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
+  <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/>
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
+   
+   <br>
+   <br>
+  
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+
+   <a href="#">
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+   </a> 
 </div>
-<hr />
